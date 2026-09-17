@@ -1,0 +1,6 @@
+{
+  "name": "NusaBiz - Marketplace Solusi Digital",
+  "description": "Marketplace produk dan layanan digital terpadu untuk individu, UMKM, sekolah, instansi, dan korporasi di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
